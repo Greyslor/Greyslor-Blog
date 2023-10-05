@@ -1,26 +1,34 @@
-# Plantilla demo para trabajar con _11ty_
+# Acerca de Greyslor
 
-## Instrucciones
+## Bienvenido a mi perfil :3 💗
 
-1. Clona este repositorio.
-   ```bash
-   git clone https://github.com/jonmircha/amerike-template-eleventy-3dev.git
-   ```
-1. Instala las dependencias.
-   ```bash
-   npm install
-   ```
-1. Iniciar el ambiente de desarrollo.
-   ```bash
-   npm run dev
-   ```
-1. Comienza a crear el contenido de tu sitio.
-1. Cuando termines recuerda modificar el contenod del comando _build_, reemplazando el texto _**--pathprefix=/amerike-template-eleventy-3dev/**_ por _**--pathprefix=/el-nombre-de-tu-repositorio/**_.
-1. Ejecuta el comando _build_.
-   ```bash
-   npm run build
-   ```
-1. Crea un repositorio en tu cuenta de _GitHub_.
-1. Vincula tu carpeta con tu repositorio.
-1. Sube el contenido a _GitHub_.
-1. Configura el Servicio de _GitHub Pages_.
+![Greys](/docs/static/img/profile1.png)
+*Greys*
+
+Hola, soy Greys, estudio la carrera en **Ingeniería de Desarrollo de Software Interactivo y Videojuegos** en _Amerike_. Me gustan mucho los videojuegos y suelo ir a los eventos, sobre todo para competir en los torneos que organizan para poder divertirme, juego mucho Halo. También me gustan las series y anime uwu.
+
+### Datos de Contacto
+
+- Redes sociales:
+  - [Twitter](https://twitter.com/Greyslor)
+  - [Facebook](https://www.facebook.com/Greyslor/)
+  - [Instagram](https://www.instagram.com/greyslor/)
+  
+- Youtube: [@Greysslor](https://www.youtube.com/@greysslor)
+- GitHub: [GitHub/Greyslor](github.com/Greyslor)
+- Correo electrónico: cdmx2510@amerike.edu.mx
+
+## Información de GitHub
+
+- **Nombre**: Grecia Lorena Morales Castillo
+- **Edad**: 20 años
+
+---
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=Greyslor&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Greyslor&show_icons=true&locale=en&theme=tokyonight)
+![Estadísticas de GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Greyslor&theme=tokyonight)
+
+[Home](/amerike-template-eleventy-3dev/docs/index.html)
+
+<script src="/amerike-template-eleventy-3dev/static/js/main.js" type="module"></script>
